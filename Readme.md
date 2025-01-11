@@ -9,3 +9,4 @@
 - lxd: lxd関係の記事
 - rust: rust関係の記事
 - other: その他
+- git: git関係の記事
