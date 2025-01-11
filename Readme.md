@@ -8,3 +8,4 @@
 - k8s: kubernetes関係の記事
 - lxd: lxd関係の記事
 - rust: rust関係の記事
+- other: その他
