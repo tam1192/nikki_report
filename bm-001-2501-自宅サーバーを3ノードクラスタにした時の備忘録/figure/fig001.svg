@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="fig001.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.1849027"
+     inkscape:cx="294.96092"
+     inkscape:cy="548.99021"
+     inkscape:window-width="1800"
+     inkscape:window-height="1126"
+     inkscape:window-x="0"
+     inkscape:window-y="43"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="knot"
+       id="path-effect176"
+       is_visible="true"
+       lpeversion="1"
+       switcher_size="14.9"
+       interruption_width="-0.2"
+       prop_to_stroke_width="true"
+       add_stroke_width="inkscape_1.0_and_up"
+       both="false"
+       inverse_width="false"
+       add_other_stroke_width="inkscape_1.0_and_up"
+       crossing_points_vector="" />
+    <inkscape:path-effect
+       effect="interpolate"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1"
+       trajectory="M 0,0 V 0"
+       equidistant_spacing="true"
+       steps="8" />
+    <rect
+       x="94.488191"
+       y="529.13384"
+       width="302.36221"
+       height="170.07874"
+       id="rect3" />
+    <rect
+       x="132.28347"
+       y="529.13384"
+       width="264.56694"
+       height="170.07874"
+       id="rect2" />
+  </defs>
+  <g
+     id="g1"
+     transform="translate(-10.909987,-35.806452)">
+    <path
+       id="rect173"
+       style="fill:#e3c18b;stroke:#000000;stroke-width:0.282851"
+       d="m 100.91018,120.80645 v 40.00014 h 25.00003 v -34.99993 l -5.00022,-5.00021 z m 12.50001,1.25108 c 0.55224,3e-5 0.99991,0.4477 0.99994,0.99994 -3e-5,0.55224 -0.4477,0.99991 -0.99994,0.99994 -0.55223,-3e-5 -0.9999,-0.4477 -0.99993,-0.99994 3e-5,-0.55224 0.4477,-0.99991 0.99993,-0.99994 z"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       id="path174"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square"
+       d="m 115.76072,120.72815 c 0.44283,-1.38199 0.34543,-3.11379 -0.37372,-4.86605 -1.27049,-3.09399 -4.02148,-4.89534 -6.14453,-4.02344 -2.12308,0.87138 -2.81474,4.0857 -1.54492,7.17969 1.27048,3.09399 4.02147,4.89534 6.14453,4.02344 0.16089,-0.066 0.31357,-0.14553 0.45779,-0.23741"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans Marchen';-inkscape-font-specification:'Noto Sans Marchen, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="104.20765"
+       y="132.10838"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans Marchen';-inkscape-font-specification:'Noto Sans Marchen, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="104.20765"
+         y="132.10838">2024</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans Marchen';-inkscape-font-specification:'Noto Sans Marchen, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="104.20765"
+         y="138.83882">20c40t </tspan><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans Marchen';-inkscape-font-specification:'Noto Sans Marchen, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="104.20765"
+         y="145.56924">2.5GHz</tspan><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans Marchen';-inkscape-font-specification:'Noto Sans Marchen, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="104.20765"
+         y="152.29968">100$</tspan></text>
+  </g>
+  <g
+     id="g2-0"
+     transform="translate(-10.909992,40.371008)">
+    <path
+       id="rect173-2"
+       style="fill:#e3c18b;stroke:#000000;stroke-width:0.282851"
+       d="m 100.91018,120.80645 v 40.00014 h 25.00003 v -34.99993 l -5.00022,-5.00021 z m 12.50001,1.25108 c 0.55224,3e-5 0.99991,0.4477 0.99994,0.99994 -3e-5,0.55224 -0.4477,0.99991 -0.99994,0.99994 -0.55223,-3e-5 -0.9999,-0.4477 -0.99993,-0.99994 3e-5,-0.55224 0.4477,-0.99991 0.99993,-0.99994 z"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       id="path174-3"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:square"
+       d="m 115.76072,120.72815 c 0.44283,-1.38199 0.34543,-3.11379 -0.37372,-4.86605 -1.27049,-3.09399 -4.02148,-4.89534 -6.14453,-4.02344 -2.12308,0.87138 -2.81474,4.0857 -1.54492,7.17969 1.27048,3.09399 4.02147,4.89534 6.14453,4.02344 0.16089,-0.066 0.31357,-0.14553 0.45779,-0.23741"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans Marchen';-inkscape-font-specification:'Noto Sans Marchen, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       x="104.20765"
+       y="132.10838"
+       id="text3-9"><tspan
+         sodipodi:role="line"
+         id="tspan1">2014</tspan><tspan
+         sodipodi:role="line"
+         id="tspan2">4c8t </tspan><tspan
+         sodipodi:role="line"
+         id="tspan3">2.0GHz</tspan><tspan
+         sodipodi:role="line"
+         id="tspan8">10$</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2"
+       transform="matrix(0.88888896,0,0,0.8888889,-0.55558621,-3.8888208)">
+      <rect
+         style="fill:#338000;stroke-width:0.227803"
+         id="rect1"
+         width="45.000031"
+         height="45.000011"
+         x="40"
+         y="100"
+         ry="0" />
+      <rect
+         style="fill:#cccccc;stroke-width:0.207093"
+         id="rect1-5"
+         width="40.909126"
+         height="40.909084"
+         x="42.045456"
+         y="102.04546"
+         ry="4.0909066" />
+    </g>
+    <g
+       id="g2-3"
+       transform="matrix(0.45454554,0,0,0.45454554,16.363598,136.80695)">
+      <rect
+         style="fill:#338000;stroke-width:0.278426"
+         id="rect1-7"
+         width="55.000031"
+         height="55.000008"
+         x="30"
+         y="90"
+         ry="0" />
+      <rect
+         style="fill:#cccccc;stroke-width:0.253114"
+         id="rect1-5-9"
+         width="50.000034"
+         height="49.999989"
+         x="32.5"
+         y="92.500008"
+         ry="4.9999967" />
+    </g>
+    <g
+       id="g2-3-9"
+       transform="matrix(0.45454554,0,0,0.45454554,28.863611,111.80695)">
+      <rect
+         style="fill:#338000;stroke-width:0.278426"
+         id="rect1-7-9"
+         width="55.000031"
+         height="55.000008"
+         x="30"
+         y="90"
+         ry="0" />
+      <rect
+         style="fill:#cccccc;stroke-width:0.253114"
+         id="rect1-5-9-7"
+         width="50.000034"
+         height="49.999989"
+         x="32.5"
+         y="92.500008"
+         ry="4.9999967" />
+    </g>
+    <g
+       id="g2-3-9-8"
+       transform="matrix(0.45454554,0,0,0.45454554,41.36362,136.80695)">
+      <rect
+         style="fill:#338000;stroke-width:0.278426"
+         id="rect1-7-9-6"
+         width="55.000031"
+         height="55.000008"
+         x="30"
+         y="90"
+         ry="0" />
+      <rect
+         style="fill:#cccccc;stroke-width:0.253114"
+         id="rect1-5-9-7-5"
+         width="50.000034"
+         height="49.999989"
+         x="32.5"
+         y="92.500008"
+         ry="4.9999967" />
+    </g>
+  </g>
+</svg>
